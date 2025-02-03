@@ -1,0 +1,5 @@
+networkx
+requests
+praw
+python-dotenv
+streamlit==1.25.0

@@ -1,0 +1,7 @@
+venv/
+.env
+__pycache__/
+reddit_monitor.log
+output.txt
+/agents/__pycache__/
+/utils/__pycache__/
